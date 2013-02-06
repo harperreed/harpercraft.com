@@ -1,0 +1,35 @@
+2012-10-13 15:32:47,589 INFO Starting crawl of Chicago Card plus
+2012-10-13 15:32:47,589 INFO connecting to mysql
+2012-10-13 15:32:47,608 INFO start date: 10-08-2012
+2012-10-13 15:32:47,608 INFO End date: 10-13-2012
+2012-10-13 15:32:47,609 INFO Crawling 4 days
+2012-10-13 15:32:47,648 INFO Logging in to CTA
+2012-10-13 15:33:03,064 INFO Logged in to CTA
+2012-10-13 15:33:03,064 INFO Parsing cards
+2012-10-13 15:33:03,065 INFO Account id: 176009
+2012-10-13 15:33:03,065 INFO 2 cards found: ['1266731', '1392327']
+2012-10-13 15:33:03,066 INFO Crawling card id #1266731
+2012-10-13 15:33:05,194 INFO already saved this transaction
+2012-10-13 15:33:05,195 INFO already saved this transaction
+2012-10-13 15:33:05,196 INFO already saved this transaction
+2012-10-13 15:33:05,197 INFO already saved this transaction
+2012-10-13 15:33:05,197 INFO already saved this transaction
+2012-10-13 15:33:05,198 INFO already saved this transaction
+2012-10-13 15:33:05,199 INFO already saved this transaction
+2012-10-13 15:33:05,199 INFO already saved this transaction
+2012-10-13 15:33:05,200 INFO already saved this transaction
+2012-10-13 15:33:05,200 INFO already saved this transaction
+2012-10-13 15:33:05,201 INFO already saved this transaction
+2012-10-13 15:33:05,201 INFO Crawling card id #1392327
+2012-10-13 15:33:06,250 INFO {'description': 'DB\\ Rand\\-Washing\\ \\(CTA\\ Train\\)', 'transaction_time': '7:50 PM', 'amount': '0.00', 'transaction_date': '10/12/2012', 'transaction_datetime': '2012-10-12 19:50:00', 'balance': '0.00'}
+2012-10-13 15:33:06,250 INFO  saving values in mysql
+2012-10-13 15:33:06,250 INFO 1
+2012-10-13 15:33:06,251 INFO already saved this transaction
+2012-10-13 15:33:06,252 INFO already saved this transaction
+2012-10-13 15:33:06,252 INFO already saved this transaction
+2012-10-13 15:33:06,253 INFO already saved this transaction
+2012-10-13 15:33:06,253 INFO already saved this transaction
+2012-10-13 15:33:06,254 INFO already saved this transaction
+2012-10-13 15:33:06,255 INFO already saved this transaction
+2012-10-13 15:33:06,255 INFO already saved this transaction
+2012-10-13 15:33:06,256 INFO already saved this transaction
